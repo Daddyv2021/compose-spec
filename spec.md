@@ -1,3 +1,7 @@
+dns:
+  - 8.8.8.8
+  - 9.9.9.9
+
 # The Compose Specification
 {:.no_toc}
 
